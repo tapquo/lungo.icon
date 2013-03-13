@@ -8,6 +8,6 @@
     "site": "http://tapquo.com"},
   "main": ["./lungo.icon.css"],
   "keywords": [ "mobile" ],
-  "dependencies": { "lungo": "~2.1.0" },
+  "dependencies": { "lungo": "~2.2.0" },
   "license": [ {"type": "GPLv3"}, {"type": "Commercial"}]
 }
